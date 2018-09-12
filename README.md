@@ -1,1 +1,1 @@
-# assistant
+# My assistant project
